@@ -1,0 +1,6 @@
+langchain
+langchain-huggingface
+sentence-transformers
+scikit-learn
+numpy
+python-dotenv
